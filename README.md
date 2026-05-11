@@ -7,6 +7,7 @@
 *   **备用地址**：[https://zmxoox.xyz](https://zmxoox.xyz)
 *   **电报频道**：[t.me/zmxooo](https://t.me/zmxooo) (建议加入，防止走丢)
 
+5.12
 clash订阅：https://raw.githubusercontent.com/lzm880880/zmxooo/refs/heads/main/config.yaml?v=8
 
 通用订阅：https://raw.githubusercontent.com/lzm880880/zmxooo/refs/heads/main/subscribe.txt
