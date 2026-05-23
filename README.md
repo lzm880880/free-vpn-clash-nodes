@@ -9,10 +9,10 @@
 
 2026.5.16
 
-clash订阅：https://raw.githubusercontent.com/lzm880880/zmxooo/refs/heads/main/config.yaml
+clash订阅：
+https://cai.zmxoo.xyz/config.yaml
 
-通用订阅：
-https://raw.githubusercontent.com/lzm880880/zmxooo/refs/heads/main/index.html
+通用订阅：https://cai.zmxoo.xyz/index.html
 
 ### 💡 资源特色
 - **完全免费**：无需注册，直接获取订阅。
