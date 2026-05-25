@@ -12,8 +12,8 @@
 clash订阅：
 https://cai.zmxoo.xyz/config.yaml
 
-通用订阅：https://cai.zmxoo.xyz/index.html
-
+通用订阅:
+https://cai.zmxoo.xyz/index.html
 ### 💡 资源特色
 - **完全免费**：无需注册，直接获取订阅。
 - **全平台支持**：适配 Clash, Sing-box, V2Ray, 小火箭等。
