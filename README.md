@@ -7,7 +7,7 @@
 *   **备用地址**：[https://zmxoox.xyz](https://zmxoox.xyz)
 *   **电报频道**：[t.me/zmxooo](https://t.me/zmxooo) (建议加入，防止走丢)
 
-2026.5.23
+2026.5.25
 
 clash订阅：
 https://cai.zmxoo.xyz/config.yaml
