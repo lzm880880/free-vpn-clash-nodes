@@ -7,13 +7,13 @@
 *   **备用地址**：[https://zmxoox.xyz](https://zmxoox.xyz)
 *   **电报频道**：[t.me/zmxooo](https://t.me/zmxooo) (建议加入，防止走丢)
 
-2026.06.01
+2026.06.02
 
 clash订阅：
-https://cai.zmxoo.xyz/sbapi?v=20260601
+https://fa.zmxoo.xyz/sbapi?v=20260602
 
 通用订阅:
-https://cai.zmxoo.xyz/linkapi?v=20260601
+https://fa.zmxoo.xyz/linkapi?v=20260602
 ### 💡 资源特色
 - **完全免费**：无需注册，直接获取订阅。
 - **全平台支持**：适配 Clash, Sing-box, V2Ray, 小火箭等。
