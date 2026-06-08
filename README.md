@@ -10,10 +10,10 @@
 2026.06.08
 
 clash订阅：
-https://fa.zmxoo.xyz/sbapi?v=20260608
+```https://fa.zmxoo.xyz/sbapi?v=20260608```
 
 通用订阅:
-https://fa.zmxoo.xyz/linkapi?v=20260608
+```https://fa.zmxoo.xyz/linkapi?v=20260608```
 
 ### 💡 资源特色
 - **完全免费**：无需注册，直接获取订阅。
