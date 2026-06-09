@@ -11,11 +11,13 @@
 
 clash订阅：
 ```
-https://fa.zmxoo.xyz/sbapi?v=20260610```
+https://fa.zmxoo.xyz/sbapi?v=20260610
+```
 
 通用订阅:
 ```
-https://fa.zmxoo.xyz/linkapi?v=20260610```
+https://fa.zmxoo.xyz/linkapi?v=20260610
+```
 
 ### 💡 资源特色
 - **完全免费**：无需注册，直接获取订阅。
