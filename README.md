@@ -19,6 +19,19 @@ https://fa.zmxoo.xyz/sbapi?v=20260614
 https://fa.zmxoo.xyz/linkapi?v=20260614
 ```
 
+
+仅加速海外应用，本地不参与加速：
+
+clash订阅：
+```
+https://qu.zmxoo.xyz/sbapi?v=20260614
+```
+
+通用订阅:
+```
+https://qu.zmxoo.xyz/linkapi?v=20260614
+```
+
 ### 💡 资源特色
 - **完全免费**：无需注册，直接获取订阅。
 - **全平台支持**：适配 Clash, Sing-box, V2Ray, 小火箭等。
