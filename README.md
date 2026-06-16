@@ -7,16 +7,16 @@
 *   **备用地址**：[https://zmxoox.xyz](https://zmxoox.xyz)
 *   **电报频道**：[t.me/zmxooo](https://t.me/zmxooo) (建议加入，防止走丢)
 
-2026.06.14
+2026.06.17
 
 clash订阅：
 ```
-https://fa.zmxoo.xyz/sbapi?v=20260614
+https://fa.zmxoo.xyz/sbapi?v=20260617
 ```
 
 通用订阅:
 ```
-https://fa.zmxoo.xyz/linkapi?v=20260614
+https://fa.zmxoo.xyz/linkapi?v=20260617
 ```
 
 
@@ -24,12 +24,12 @@ https://fa.zmxoo.xyz/linkapi?v=20260614
 
 clash订阅：
 ```
-https://qu.zmxoo.xyz/sbapi?v=20260614
+https://qu.zmxoo.xyz/sbapi?v=20260617
 ```
 
 通用订阅:
 ```
-https://qu.zmxoo.xyz/linkapi?v=20260614
+https://qu.zmxoo.xyz/linkapi?v=20260617
 ```
 
 ### 💡 资源特色
