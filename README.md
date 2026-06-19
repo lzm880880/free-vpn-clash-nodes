@@ -16,7 +16,8 @@ https://fa.zmxoo.xyz/sbapi?v=20260619
 
 通用订阅:
 ```
-https://fa.zmxoo.xyz/linkapiv=20260619```
+https://fa.zmxoo.xyz/linkapiv=20260619
+```
 
 
 以下仅加速海外应用，本地不参与加速：↓↓↓
