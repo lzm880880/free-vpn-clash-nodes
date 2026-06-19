@@ -16,7 +16,7 @@ https://fa.zmxoo.xyz/sbapi?v=20260619
 
 通用订阅:
 ```
-https://fa.zmxoo.xyz/linkapi?v=20260619```
+https://fa.zmxoo.xyz/linkapiv=20260619```
 
 
 以下仅加速海外应用，本地不参与加速：↓↓↓
@@ -28,7 +28,7 @@ https://qu.zmxoo.xyz/sbapi?v=20260619
 
 通用订阅:
 ```
-https://qu.zmxoo.xyz/linkapi?v=202606179```
+https://qu.zmxoo.xyz/linkapiv=202606179```
 
 ### 💡 资源特色
 - **完全免费**：无需注册，直接获取订阅。
