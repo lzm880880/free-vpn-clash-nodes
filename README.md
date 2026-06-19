@@ -7,30 +7,28 @@
 *   **备用地址**：[https://zmxoox.xyz](https://zmxoox.xyz)
 *   **电报频道**：[t.me/zmxooo](https://t.me/zmxooo) (建议加入，防止走丢)
 
-2026.06.17
+2026.06.19
 
 clash订阅：
 ```
-https://fa.zmxoo.xyz/sbapi?v=20260617
+https://fa.zmxoo.xyz/sbapi?v=20260619
 ```
 
 通用订阅:
 ```
-https://fa.zmxoo.xyz/linkapi?v=20260617
-```
+https://fa.zmxoo.xyz/linkapi?v=20260619```
 
 
 以下仅加速海外应用，本地不参与加速：↓↓↓
 
 clash订阅：
 ```
-https://qu.zmxoo.xyz/sbapi?v=20260617
+https://qu.zmxoo.xyz/sbapi?v=20260619
 ```
 
 通用订阅:
 ```
-https://qu.zmxoo.xyz/linkapi?v=20260617
-```
+https://qu.zmxoo.xyz/linkapi?v=202606179```
 
 ### 💡 资源特色
 - **完全免费**：无需注册，直接获取订阅。
