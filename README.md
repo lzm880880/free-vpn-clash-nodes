@@ -29,7 +29,8 @@ https://qu.zmxoo.xyz/sbapi?v=20260619
 
 通用订阅:
 ```
-https://qu.zmxoo.xyz/linkapiv=202606179```
+https://qu.zmxoo.xyz/linkapiv=20260619
+```
 
 ### 💡 资源特色
 - **完全免费**：无需注册，直接获取订阅。
